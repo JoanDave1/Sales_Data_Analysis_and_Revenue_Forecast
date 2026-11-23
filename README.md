@@ -1,4 +1,4 @@
-# Superstore-sales-data-analysis
+# Sales Data Analysis and Revenue Forecast
 
 ## Project Overview
 
