@@ -67,6 +67,9 @@ The dataset was checked for duplicate rows in both Excel and Python to ensure th
 Overall, the dataset required minimal cleaning, allowing the analysis to focus primarily on uncovering sales patterns and performance drivers rather than data quality issues.
 
 ## Exploratory Data Analysis
+
+<img width="999" height="813" alt="image" src="https://github.com/user-attachments/assets/e07afff5-29bd-4da0-88ef-5c1bcc6336fb" />
+
 ### 1. Regional Sales Performance
 The regional sales analysis reveals clear differences in revenue distribution across the Central, East, South, and West regions between 2015 and 2018. It also discloses regional sales across various product categories and customer segments. 
 
